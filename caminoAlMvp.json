@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "nombre": "Lionel Messi",
+      "club": "Inter Miami",
+      "puesto": "10",
+      "img": "10.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Angel Di Maria",
+      "club": "Benfica",
+      "puesto": "11",
+      "img": "11.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Rodrigo De Paul",
+      "club": "Atletico Madrid",
+      "puesto": "7",
+      "img": "6.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Emiliano Martinez",
+      "club": "Aston Villa",
+      "puesto": "23",
+      "img": "1.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Cristian Romero",
+      "club": "Tottenham Hotspur",
+      "puesto": "13",
+      "img": "3.webp"
+    }
+  ]
